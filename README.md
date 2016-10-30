@@ -1,4 +1,7 @@
 # datasciencecoursera
-Repo for the data science course at Coursera
-
-testing
+## testando
+### testando mesmo
+testandoooo
+* lista 1
+* lista 2
+* lista 3
